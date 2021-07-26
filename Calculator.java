@@ -85,7 +85,7 @@ JPanel p = new JPanel();
   
 p.setBackground(Color.yellow);  
 f.add(p); 
-f.setSize(200, 220); 
+f.setSize(250, 300); 
 f.show(); 
 } 
 public void actionPerformed(ActionEvent e) 
